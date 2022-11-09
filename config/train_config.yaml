@@ -1,0 +1,7 @@
+data_path: 'data/heart_cleveland_upload.csv'
+target_col: 'condition'
+test_size: 0.2
+model_filename: 'artefacts/model.pkl'
+penalty: 'l2'
+max_iter: 1000
+random_state: 42
